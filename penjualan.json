@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "pembeli": "Budi",
+        "buah": "Durian",
+        "jumlahBeli": 2,
+        "harga": 20000,
+        "total": 40000,
+        "diskon": 0,
+        "totalBayar": 40000
+    },
+    {
+        "id": "2",
+        "pembeli": "Agus",
+        "buah": "Apel",
+        "jumlahBeli": 4,
+        "harga": 30000,
+        "total": 120000,
+        "diskon": 12000,
+        "totalBayar": 108000
+    },
+    {
+        "id": "3",
+        "pembeli": "Tuti",
+        "buah": "Mangga",
+        "jumlahBeli": 3,
+        "harga": 15000,
+        "total": 45000,
+        "diskon": 0,
+        "totalBayar": 45000
+    }
+]
